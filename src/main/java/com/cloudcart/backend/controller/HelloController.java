@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello from CloudCart Backend!";
+        return "Hello from CloudCart Backend v2!";
     }
 }
